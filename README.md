@@ -20,11 +20,11 @@ Este projeto tem como objetivo ajudar o Senhor João, proprietário da rede Alur
 
 ## 📊 Principais Gráficos e Insights
 
-# 1. Análise do faturamento
-# 2. Vendas por Categoria
-# 3. Média de Avaliação das Lojas
-# 4. Produtos Mais e Menos Vendidos
-# 5. Frete Médio por Loja
+### 1. Análise do faturamento
+### 2. Vendas por Categoria
+### 3. Média de Avaliação das Lojas
+### 4. Produtos Mais e Menos Vendidos
+### 5. Frete Médio por Loja
 
 ## 🛠️ Tecnologias Utilizadas]
 
