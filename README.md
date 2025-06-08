@@ -55,15 +55,53 @@ Performance relativa (baseado no gráfico radar):
 ### 3. Média de Avaliação das Lojas
 ![grafico3](https://github.com/user-attachments/assets/15eb3bc7-a01a-47ef-8956-95430b3d8dc7)
 
+### Insights
+Variação pequena: Todas as lojas estão na faixa de 3.98 a 4.05, indicando consistência no atendimento.
+Média geral: 4.02 (linha vermelha tracejada no gráfico).
+
+Distribuição (baseado no boxplot):
+- Loja 3 tem a menor variação (mais consistente)
+- Loja 1 apresenta maior dispersão nas avaliações
+
+Esta análise sugere que, embora todas as lojas mantenham padrões relativamente altos de satisfação, há espaço para melhorias, particularmente na Loja 1, que está ligeiramente abaixo das demais.
 
 ### 4. Produtos Mais e Menos Vendidos
 ![grafico4](https://github.com/user-attachments/assets/8d568bc2-ba23-40c4-aee4-73d815d77e5f)
 
+### Insights
+#### Médias Gerais:
+- Média dos mais vendidos: 61 unidades (linha verde tracejada)
+- Média dos menos vendidos: 33 unidades (linha vermelha tracejada)
+
+#### Padrões Observados:
+- Todas as lojas têm diferença significativa entre top e bottom (mínimo 22 unidades)
+- Produtos de mobília/eletrodomésticos dominam os mais vendidos
+- Itens de nicho (instrumentos, acessórios) aparecem como menos vendidos
+
+#### Performance Relativa:
+- Loja 2 tem o produto mais vendido com maior volume (65 unidades)
+- Loja 3 mostra a menor diferença entre extremos (22 unidades)
+- Lojas 1 e 4 têm padrões similares de diferença (~27-29 unidades)
+
+Esta análise revela oportunidades tanto para capitalizar nos sucessos atuais quanto para melhorar o desempenho dos produtos subutilizados, com estratégias específicas por loja.
 
 ### 5. Frete Médio por Loja
 ![grafico5](https://github.com/user-attachments/assets/3b4a1575-79bd-4830-9a1c-9116dd5bd997)
 
+### Insights
+Média Geral: R$ 33,17
+Variação: Diferença de R$ 3,41 entre a loja mais cara (1) e mais econômica (4)
 
+Distribuição:
+- Loja 1 responde por 26,1% do total de fretes
+- Loja 4 por apenas 23,6%, apesar de ter volume similar de vendas
+
+O gráfico de pizza mostra:
+- Proporção relativa de cada loja no total de fretes
+- Destaque visual para a Loja 1 (mais cara)
+- Distribuição equilibrada entre as demais
+
+Esta análise revela oportunidades para otimização de custos logísticos, especialmente na Loja 1, enquanto a Loja 4 serve como benchmark de eficiência. A diferença significativa sugere que há espaço para padronização ou adaptação estratégica das políticas de frete.
 
 ## 🛠️ Tecnologias Utilizadas]
 
