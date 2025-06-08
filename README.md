@@ -24,27 +24,22 @@ Este projeto tem como objetivo ajudar o Senhor João, proprietário da rede Alur
 ![grafico1](https://github.com/user-attachments/assets/1f6ed28c-667c-4cb8-a08c-8921577df623)
 
 ### Insights
-#### Resultados do Faturamento
+#### ✅ Loja 1 - Líder de Faturamento
+Fatura R$ 1,534,509.12 (4.55% acima da média)
+Vantagem sobre a Loja 2: R$ 46,050.06
+Vantagem sobre a Loja 4: R$ 150,011.54
 
-✅ **Loja 1** tem o maior faturamento, superando a média das 4 lojas em **25.3%**  
-⚠️ **Loja 4** apresenta o menor faturamento, ficando **18.7% abaixo** da média
+#### 📈 Loja 2 - Segunda Colocada
+Fatura R$ 1,488,459.06 (1.40% acima da média)
+Próxima da liderança, com potencial para crescer
 
-#### Detalhes do Cálculo
+#### 📉 Loja 3 - Estável, mas abaixo da média
+Fatura R$ 1,464,025.03 (0.26% abaixo da média)
+Próxima da média, mas sem grande destaque
 
-| Métrica                     | Valor            |
-|-----------------------------|------------------|
-| Faturamento médio           | R$ 47.532,50     |
-| Faturamento Loja 1          | R$ 59.558,00 (+25.3%) |
-| Faturamento Loja 4          | R$ 38.654,00 (-18.7%) |
-
-#### Comparativo Direto
-- **+54.1%** de diferença entre Loja 1 e Loja 4
-- **R$ 20.904,00** de diferença absoluta
-
-#### Interpretação
-- **Loja 1**: Desempenho excepcional (25% acima da média)
-- **Loja 4**: Necessidade de melhoria (19% abaixo da média)
-- **Disparidade**: Diferença de mais de 50% entre topo e base
+#### ⚠️ Loja 4 - Menor Faturamento
+Fatura R$ 1,384,497.58 (5.68% abaixo da média)
+Diferença significativa para líder (R$ 150K)
 
 ### 2. Vendas por Categoria
 ![grafico2](https://github.com/user-attachments/assets/fe4ea369-e53b-409d-a02d-5c9cea954c4f)
