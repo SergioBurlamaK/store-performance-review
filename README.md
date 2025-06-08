@@ -21,10 +21,25 @@ Este projeto tem como objetivo ajudar o Senhor João, proprietário da rede Alur
 ## 📊 Principais Gráficos e Insights
 
 ### 1. Análise do faturamento
+![grafico1](https://github.com/user-attachments/assets/1f6ed28c-667c-4cb8-a08c-8921577df623)
+
+
 ### 2. Vendas por Categoria
+![grafico2](https://github.com/user-attachments/assets/fe4ea369-e53b-409d-a02d-5c9cea954c4f)
+
+
 ### 3. Média de Avaliação das Lojas
+![grafico3](https://github.com/user-attachments/assets/15eb3bc7-a01a-47ef-8956-95430b3d8dc7)
+
+
 ### 4. Produtos Mais e Menos Vendidos
+![grafico4](https://github.com/user-attachments/assets/8d568bc2-ba23-40c4-aee4-73d815d77e5f)
+
+
 ### 5. Frete Médio por Loja
+![grafico5](https://github.com/user-attachments/assets/3b4a1575-79bd-4830-9a1c-9116dd5bd997)
+
+
 
 ## 🛠️ Tecnologias Utilizadas]
 
