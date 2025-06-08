@@ -21,7 +21,7 @@ Este projeto tem como objetivo ajudar o Senhor João, proprietário da rede Alur
 ## 📊 Principais Gráficos e Insights
 
 ### 1. Análise do faturamento
-![grafico1](https://github.com/user-attachments/assets/1f6ed28c-667c-4cb8-a08c-8921577df623)
+![Análise de Faturamento](https://raw.githubusercontent.com/SergioBurlamaK/store-performance-review/main/outputs/grafico1.png)
 
 ### Insights
 #### ✅ Loja 1 - Líder de Faturamento
@@ -42,7 +42,7 @@ Fatura R$ 1,384,497.58 (5.68% abaixo da média)
 Diferença significativa para líder (R$ 150K)
 
 ### 2. Vendas por Categoria
-![grafico2](https://github.com/user-attachments/assets/fe4ea369-e53b-409d-a02d-5c9cea954c4f)
+![Vendas por Categoria](https://raw.githubusercontent.com/SergioBurlamaK/store-performance-review/main/outputs/grafico2.png)
 
 ### Insights
 Padrão consistente: Todas as lojas têm móveis como categoria mais vendida e instrumentos musicais ou utilidades domésticas como menos vendidas.
@@ -53,7 +53,7 @@ Performance relativa (baseado no gráfico radar):
 - Lojas 1 e 2 têm perfis similares, com a Loja 1 ligeiramente à frente
 
 ### 3. Média de Avaliação das Lojas
-![grafico3](https://github.com/user-attachments/assets/15eb3bc7-a01a-47ef-8956-95430b3d8dc7)
+![Avaliação das Lojas](https://raw.githubusercontent.com/SergioBurlamaK/store-performance-review/main/outputs/grafico3.png)
 
 ### Insights
 Variação pequena: Todas as lojas estão na faixa de 3.98 a 4.05, indicando consistência no atendimento.
@@ -66,7 +66,7 @@ Distribuição (baseado no boxplot):
 Esta análise sugere que, embora todas as lojas mantenham padrões relativamente altos de satisfação, há espaço para melhorias, particularmente na Loja 1, que está ligeiramente abaixo das demais.
 
 ### 4. Produtos Mais e Menos Vendidos
-![grafico4](https://github.com/user-attachments/assets/8d568bc2-ba23-40c4-aee4-73d815d77e5f)
+![Produtos Extremos](https://raw.githubusercontent.com/SergioBurlamaK/store-performance-review/main/outputs/grafico4.png)
 
 ### Insights
 #### Médias Gerais:
@@ -86,7 +86,7 @@ Esta análise sugere que, embora todas as lojas mantenham padrões relativamente
 Esta análise revela oportunidades tanto para capitalizar nos sucessos atuais quanto para melhorar o desempenho dos produtos subutilizados, com estratégias específicas por loja.
 
 ### 5. Frete Médio por Loja
-![grafico5](https://github.com/user-attachments/assets/3b4a1575-79bd-4830-9a1c-9116dd5bd997)
+![Custo de Frete](https://raw.githubusercontent.com/SergioBurlamaK/store-performance-review/main/outputs/grafico5.png)
 
 ### Insights
 Média Geral: R$ 33,17
@@ -103,24 +103,49 @@ O gráfico de pizza mostra:
 
 Esta análise revela oportunidades para otimização de custos logísticos, especialmente na Loja 1, enquanto a Loja 4 serve como benchmark de eficiência. A diferença significativa sugere que há espaço para padronização ou adaptação estratégica das políticas de frete.
 
+## 🔍 Conclusão Estratégica (Resumida)
+
+**Recomendação Final:**  
+**Vender a Loja 4** - Principais motivos:  
+
+📉 **Faturamento:**  
+- R$ 1,38M (9,8% abaixo da média das outras lojas)  
+- Única loja com queda trimestral (-0.3%)  
+
+🚚 **Custos de Frete:** 
+
+Menor custo (R$ 31,28), mas:
+- Não melhorou vendas (4ª posição)
+- Não aumentou satisfação (2ª em avaliações, mas diferença mínima)  
+
+🛒 **Mix de Produtos Problemático:**  
+- Mais vendido: Cama box (logística cara) 
+- Menos vendido: Guitarra (baixo giro)  
+
+❌ **Por Que Não Outras Lojas?**
+
+- Loja 1: Maior faturamento (compensa frete alto)
+- Loja 2: Desempenho equilibrado (sem pontos fracos)
+- Loja 3: Melhor avaliação (diferencial estratégico)
+
 ## 🛠️ Tecnologias Utilizadas
 
-- python
-- pandas
-- matplotlib
-- seaborn
-- numpy
-- jupyter
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-5B8FA8?style=for-the-badge&logo=seaborn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ## 📂 Estrutura dos Dados
 ```
 store-performance-review/
-├── data/ # Pasta com dados brutos
+├── base-de-dados/ # Pasta com dados brutos
 │ ├── loja_1.csv # Dados da Loja 1
 │ ├── loja_2.csv # Dados da Loja 2
 │ ├── loja_3.csv # Dados da Loja 3
 │ └── loja_4.csv # Dados da Loja 4
-├── analise_alura.ipynb # Notebook principal
+├── AluraStoreBr.ipynb # Notebook principal
 ├── outputs/ # Imagens dos gráficos
 │ ├──  grafico1 # Gráfico da Loja 1
 │ ├──  grafico2 # Gráfico da Loja 2
@@ -128,3 +153,42 @@ store-performance-review/
 │ └──  grafico4 # Gráfico da Loja 4
 └── README.md
 ```
+## 🚀 Como Executar esta Análise no Google Colab
+
+1. **Acesse o Notebook:**
+   - Clique no botão abaixo para abrir diretamente no Colab:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/analise_alura.ipynb)
+
+2. **Faça uma cópia do notebook:**
+   - No menu do Colab, clique em `File` > `Save a copy in Drive`
+
+3. **Execute a análise:**
+   - Clique em `Runtime` > `Run all` (ou use Ctrl+F9)
+   - Ou execute cada célula manualmente com Shift+Enter
+
+4. **Personalização (opcional):**
+   - Para alterar dados de entrada, edite a célula com os datasets
+   - Modifique parâmetros de visualizações nas células de gráficos
+
+## 💻 Execução Local (alternativa)
+
+Se preferir executar localmente:
+
+```bash
+git clone https://github.com/SergioBurlamaK/store-performance-review.git
+cd store-performance-review
+jupyter notebook AluraStoreBr.ipynb
+```
+
+---
+
+## 👨‍💻 Autor  
+
+|  |  |
+|--|--|
+| ✨ **Nome** | Sergio Burlamaqui |
+| 📌 **GitHub** | [![GitHub](https://img.shields.io/badge/-SergioBurlamaK-181717?style=flat&logo=github&logoColor=white)](https://github.com/SergioBurlamaK) |
+| 📧 **E-mail** | [![Outlook](https://img.shields.io/badge/-sergio_o.b_junior@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:sergio_o.b_junior@hotmail.com) |
+| 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Sergio_Burlamaqui-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioburlamaqui/) |
+
+---
