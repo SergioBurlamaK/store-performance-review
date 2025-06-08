@@ -103,7 +103,7 @@ O gráfico de pizza mostra:
 
 Esta análise revela oportunidades para otimização de custos logísticos, especialmente na Loja 1, enquanto a Loja 4 serve como benchmark de eficiência. A diferença significativa sugere que há espaço para padronização ou adaptação estratégica das políticas de frete.
 
-## 🛠️ Tecnologias Utilizadas]
+## 🛠️ Tecnologias Utilizadas
 
 - python
 - pandas
