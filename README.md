@@ -157,7 +157,7 @@ store-performance-review/
 
 1. **Acesse o Notebook:**
    - Clique no botão abaixo para abrir diretamente no Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/analise_alura.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SergioBurlamaK/store-performance-review/blob/main/AluraStoreBr.ipynb)
 
 2. **Faça uma cópia do notebook:**
    - No menu do Colab, clique em `File` > `Save a copy in Drive`
