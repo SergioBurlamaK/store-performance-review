@@ -44,6 +44,13 @@ Diferença significativa para líder (R$ 150K)
 ### 2. Vendas por Categoria
 ![grafico2](https://github.com/user-attachments/assets/fe4ea369-e53b-409d-a02d-5c9cea954c4f)
 
+### Insights
+Padrão consistente: Todas as lojas têm móveis como categoria mais vendida e instrumentos musicais ou utilidades domésticas como menos vendidas.
+
+Performance relativa (baseado no gráfico radar):
+- Loja 3 se destaca com o melhor desempenho geral
+- Loja 4 mostra um perfil equilibrado
+- Lojas 1 e 2 têm perfis similares, com a Loja 1 ligeiramente à frente
 
 ### 3. Média de Avaliação das Lojas
 ![grafico3](https://github.com/user-attachments/assets/15eb3bc7-a01a-47ef-8956-95430b3d8dc7)
