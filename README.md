@@ -1,7 +1,7 @@
 # 🌟 Análise de Desempenho - Rede Alura Store
 
 ## 📌 Objetivo
-Este projeto tem como objetivo ajudar o Senhor João, proprietário da rede Alura Store, a identificar qual de suas 4 lojas apresenta o menor desempenho para considerar sua venda. A análise foi realizada diretamente no Google Colab e abrange:
+Este projeto tem como objetivo ajudar o Senhor João, proprietário da rede Alura Store (empresa fictícia), a identificar qual de suas 4 lojas apresenta o menor desempenho para considerar sua venda. A análise foi realizada diretamente no Google Colab e abrange:
 
 - Comparativo completo de faturamento entre lojas
 - Desempenho por categoria de produtos
